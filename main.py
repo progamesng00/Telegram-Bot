@@ -7,7 +7,7 @@ api_id = int(os.environ['API_ID'])
 api_hash = os.environ['API_HASH']
 
 # Channel and message info
-channel_username = 'Idreez_01'
+channel_username = 'ksimemecoin'
 trigger_phrase = 'first to send'
 receiver_username = '@Idreez_03'
 message_to_send = "9049164098\nOpay\nOPEYEMI TOLULOPE JOSEPH"
